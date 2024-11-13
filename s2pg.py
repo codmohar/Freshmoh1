@@ -3,7 +3,7 @@ from PIL import ImageTk,Image
 import mysql.connector as c
 import tkinter.messagebox as tmsg
 
-
+n='mohar466'
 
 def por():
     #n = input('Enter sql password:')
